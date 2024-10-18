@@ -6,10 +6,7 @@
 	],
 	"settings": {
 		"editor.tabSize": 8,
-		"editor.insertSpaces": false,
-		"files.associations": {
-			"unity.h": "c"
-		}
+		"editor.insertSpaces": false
 	},
 	"extensions": {
 		"recommendations": [
